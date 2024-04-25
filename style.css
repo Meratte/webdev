@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(218, 245, 220);
+}
+
+section {
+    background-image: url("for_website.jpg");
+    height: 400px;
+    background-repeat: repeat;
+    border: 3px solid black;
+    border-radius:20px;
+}
